@@ -1,0 +1,19 @@
+.main__table--global {
+    display: flex;
+    justify-content: space-between;
+}
+
+.product-cards__general {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.product-cards__container {
+    margin: 10px auto;
+}
+
+.plans-container--slider {
+    justify-content: center;
+}
